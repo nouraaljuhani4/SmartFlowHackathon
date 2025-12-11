@@ -1,0 +1,29 @@
+{
+    "CAM_01": {
+        "name": "Highway Camera",
+        "lat": 24.68706,
+        "lon": 46.708943,
+        "vehicles": 22,
+        "level": "High Traffic",
+        "incidents": 0,
+        "timestamp": "2025-12-11T22:41:25.352381"
+    },
+    "CAM_02": {
+        "name": "City Center Camera",
+        "lat": 24.668566,
+        "lon": 46.695156,
+        "vehicles": 9,
+        "level": "Low Traffic",
+        "incidents": 0,
+        "timestamp": "2025-12-11T22:41:25.497220"
+    },
+    "CAM_03": {
+        "name": "Live Field Camera",
+        "lat": 24.66576,
+        "lon": 46.68243,
+        "vehicles": 0,
+        "level": "Low Traffic",
+        "incidents": 0,
+        "timestamp": "2025-12-11T22:41:25.961769"
+    }
+}
